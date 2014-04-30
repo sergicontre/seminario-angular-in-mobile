@@ -1,6 +1,9 @@
 EJEMPLO SEMINARIO ANGULAR JS IN MOBILE.
 ------------------------------------------------------------------------------------
 
+Slides: http://www.slideshare.net/sergicontre/angular-js-in-mobile
+
+
 Ejemplo databinding (Slide 4): http://embed.plnkr.co/ZcS3a4
 
 Ejemplo directiva (Slide 5): http://embed.plnkr.co/9WEytxN8wUsNxp973Zzg
